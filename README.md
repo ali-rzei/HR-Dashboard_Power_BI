@@ -1,3 +1,8 @@
+
+![Untitled](https://github.com/ali-rzei/HR-Dashboard_Power_BI/assets/142378840/ebd354db-27ad-44ce-9ecf-3571ce0be3b2)
+
+
+
 # HR-Dashboard_Power_BI
 HR Dashboard with Power BI for Data-Driven HR
 ------------
